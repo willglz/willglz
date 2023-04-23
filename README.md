@@ -4,7 +4,7 @@
 
 <h3 align="center">Computing science engineer | Java Developer from El Salvador 🧑‍💻</h3>
 
-![mi profile](https://i.imgur.com/gsW7dvL.png)
+![my profile](https://i.imgur.com/gsW7dvL.png)
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="https://i.imgur.com/rLCB76E.png" alt="🔺" width='40' /> About Me</h2>
 
