@@ -8,9 +8,10 @@
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="https://i.imgur.com/rLCB76E.png" alt="🔺" width='40' /> About Me</h2>
 
-- ☕️ &nbsp; Java has always been my favorite programming language.
+- ☕️ &nbsp; Java has always been my favorite programming language
 - 🦾 &nbsp; On the way to becoming a Java Master
-- 🤝 &nbsp; If it is within my means to help you, I will be happy to do so.
+- ⚙️ &nbsp; Agile mindset
+- 🤝 &nbsp; If it is within my means to help you, I will be happy to do so
 
 ## Front-End Technologies
 <p align="center">
